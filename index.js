@@ -18,12 +18,12 @@ const stock = require("./stock.js");
 
 
 var minValue = {
-    name: "Minvärde",
+    name: "Min",
     current: 18,
 };
 
 var maxValue = {
-    name: "Maxvärde",
+    name: "Max",
     current: 22,
 };
 
